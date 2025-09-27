@@ -34,7 +34,7 @@ This repository contains explanations and practice SQL queries covering **all ty
 ---
 
 ## 🎯 Why this repo?
-- Covers **27 interview-style SQL tasks** step by step
+- Covers **30+ interview-style SQL tasks** step by step
 - Each query is explained and documented
 - Helps prepare for **Data Analyst / SQL interviews** at MNCs and startups
 
